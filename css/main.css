@@ -273,7 +273,7 @@ h3 {
   color: #ffffff;
   margin-bottom: 1rem;
   font-family: 'Playfair Display', serif;
-  font-size: 30px;
+  font-size: 18px;
 }
 .review p:nth-of-type(2) {
   font-size: 14px;
@@ -427,11 +427,8 @@ footer {
   .keyword-text {
     padding-top: 77px;
   }
-  .reveiw p:first-of-type {
+  .review p {
     font-size: 30px;
-  }
-  .reveiw p:last-of-type {
-    font-size: 18px;
   }
   .sliding-nav li {
     padding: 0 45px 45px 0;
