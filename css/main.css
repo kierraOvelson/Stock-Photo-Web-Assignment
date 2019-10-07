@@ -115,7 +115,6 @@ ul {
 .sliding-nav ul {
   text-align: center;
   margin: 0 auto;
-  padding: 0 30px 0 30px;
 }
 .sliding-nav li {
   padding-bottom: 1rem;
@@ -172,7 +171,7 @@ ul {
   transition: top 1s ease-in-out;
 }
 .header-bg {
-  background: linear-gradient(to top, #435662, 30%, transparent, #ffffffc2), url(../img/sm-bg-header.jpg) no-repeat center center;
+  background: linear-gradient(to top, #19242bd2 5%, transparent, #ffffffc2), url(../img/sm-bg-header.jpg) no-repeat center center;
   background-size: cover;
   height: 400px;
   text-align: center;
@@ -274,6 +273,7 @@ h3 {
   color: #ffffff;
   margin-bottom: 1rem;
   font-family: 'Playfair Display', serif;
+  font-size: 30px;
 }
 .review p:nth-of-type(2) {
   font-size: 14px;
@@ -307,6 +307,7 @@ h3 {
 }
 .keyword-text p {
   font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
   font-size: 15px;
 }
 .keyword-text {
@@ -380,7 +381,7 @@ footer {
 }
 @media only screen and (min-width: 650px) {
   .header-bg {
-    background: linear-gradient(to top, #435662, 30%, transparent), url(../img/md-bg-header.jpg) no-repeat center center;
+    background: linear-gradient(to top, #19242bd2 5%, transparent), url(../img/md-bg-header.jpg) no-repeat center center;
     background-size: cover;
     height: 711px;
     text-align: center;
@@ -458,7 +459,7 @@ footer {
 }
 @media only screen and (min-width: 1000px) {
   .header-bg {
-    background: linear-gradient(to top, #435662, 30%, transparent), url(../img/lg-bg-header.jpg) no-repeat center center;
+    background: linear-gradient(to top, #19242bd2 5%, transparent), url(../img/lg-bg-header.jpg) no-repeat center center;
     background-size: cover;
     height: 1067px;
     margin-bottom: 129px;
